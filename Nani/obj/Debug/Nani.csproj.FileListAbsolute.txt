@@ -1,0 +1,10 @@
+C:\Users\Bas\source\repos\Nani\Nani\bin\Debug\Nani.exe.config
+C:\Users\Bas\source\repos\Nani\Nani\bin\Debug\Nani.exe
+C:\Users\Bas\source\repos\Nani\Nani\bin\Debug\Nani.pdb
+C:\Users\Bas\source\repos\Nani\Nani\obj\Debug\Nani.csprojAssemblyReference.cache
+C:\Users\Bas\source\repos\Nani\Nani\obj\Debug\Nani.Properties.Resources.resources
+C:\Users\Bas\source\repos\Nani\Nani\obj\Debug\Nani.csproj.GenerateResource.cache
+C:\Users\Bas\source\repos\Nani\Nani\obj\Debug\Nani.csproj.CoreCompileInputs.cache
+C:\Users\Bas\source\repos\Nani\Nani\obj\Debug\Nani.exe
+C:\Users\Bas\source\repos\Nani\Nani\obj\Debug\Nani.pdb
+C:\Users\Bas\source\repos\Nani\Nani\obj\Debug\Nani.Game.resources
